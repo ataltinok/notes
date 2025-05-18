@@ -1,3 +1,3 @@
 # Notes
 
-My handwritten notes regarding various subjects. I am leaving this public in case it benefits anyone during their studies/career.
+My handwritten notes regarding various subjects because using LLMs to summarize subjects costs water.
